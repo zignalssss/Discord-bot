@@ -3,7 +3,7 @@
 prefix = ? //command
 
 
-พิมพ์ food ใน textchannel จะสามารถสุมอาหารได้ //ไม่ต้องพิมพ์ command
+พิมพ์ food ใน textchannel จะสามารถสุ่มอาหารได้ //ไม่ต้องพิมพ์ command
 
 <img src="https://cdn.discordapp.com/attachments/928273696588726312/930120121744252928/food.png"></a> 
 
