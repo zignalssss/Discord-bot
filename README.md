@@ -1,11 +1,24 @@
 # Discord-bot
 
+prefix = ? //command
 
 
+พิมพ์ food ใน textchannel จะสามารถสุมอาหารได้ //ไม่ต้องพิมพ์ command
 
-<img src="https://cdn.discordapp.com/attachments/928273696588726312/930120094116352060/tcas.png"></a> 
-<img src="https://cdn.discordapp.com/attachments/928273696588726312/930120094116352060/tcas.png"></a> 
+<img src="https://cdn.discordapp.com/attachments/928273696588726312/930120121744252928/food.png"></a> 
 
+สามารถเปิดพลงได้ => ?play 
+                  ?skip
+                  ?stop
+                  ?pause
+                  ?resume
+                  ?volume
+
+<img src="https://cdn.discordapp.com/attachments/928273696588726312/930120128429965322/MUSIC.png"></a> 
+
+คำสั่ง ?covid = สามารถรายงานสถานการณ์ COVID-19 ประจำวัน
+
+<img src="https://cdn.discordapp.com/attachments/928273696588726312/930120110121816164/covid.png"></a> 
 
 คำสั่ง ?tcas = TCAS คิอ อะไร
 
