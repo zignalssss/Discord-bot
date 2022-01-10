@@ -14,4 +14,4 @@
 
 สามารถ อัพเดทข่าวสาร TCAS จาก TCASTER ได้เเละ เเจ้งเตือนเมื่อมีคลิป Youtube คลิปใหม่ //จะเช็คทุก 1 ชั่วโมง
 
-<img src="https://cdn.discordapp.com/attachments/928273696588726312/930120101972299786/Screenshot_2022-01-10_222159.png"></a> 
+<img  height="30" width="40" src="https://cdn.discordapp.com/attachments/928273696588726312/930120101972299786/Screenshot_2022-01-10_222159.png"></a> 
