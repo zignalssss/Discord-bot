@@ -20,7 +20,7 @@ prefix = ? //command
 
 <img src="https://cdn.discordapp.com/attachments/928273696588726312/930120110121816164/covid.png"></a> 
 
-คำสั่ง ?tcas = TCAS คิอ อะไร
+คำสั่ง ?tcas = TCAS คือ อะไร?
 
 <img src="https://cdn.discordapp.com/attachments/928273696588726312/930120094116352060/tcas.png"></a> 
 
